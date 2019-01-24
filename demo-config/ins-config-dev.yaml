@@ -1,5 +1,5 @@
 institute:
   name: 南师大16级软件工程专业山口组
 eureka:
-  host:47.102.107.121
-  port:8761
+  host: 47.102.107.121
+  port: 8761
